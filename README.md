@@ -1,6 +1,6 @@
 # TodoList
 
-This is a complete To-Do List project where you have your main "Today" list with the tasks of the day and you can also create multiple lists separately with different tasks.
+This is a complete To-Do List project where you have your main "*Today*" list with the tasks of the day and you can also create multiple lists separately with different tasks.
 
 All data is stored in the **MongoDB** database, to use it correctly you must first have MongoDB downloaded to your system and have it turned on.
 
