@@ -10,3 +10,5 @@ To do this, just run the command `npm i body-parser ejs express lodash mongoose`
 Then you are free to run the application in the folder where it appears. Just run `node app.js` command and then go to `localhost:3000` in your browser.
 
 To create new lists it is necessary to create them by the url itself for now, adding `/nameNewList` to the end of `localhost:3000` where nameNewList is the name of the new list you want to create.
+
+![alt text](https://raw.githubusercontent.com/NathSantos/TodoList/main/todolistGIF.gif)
